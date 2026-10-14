@@ -129,7 +129,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "012cb0ca-0482-4e74-82a0-87dce9bd3473")
-		(at 125.235 135.855)
+		(at 53.725 184)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R29"
@@ -287,7 +287,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "01aa3b49-0090-4efa-bfad-6a0b95dc624f")
-		(at 151.4281 151.6705)
+		(at 226.4083 77.599999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U50"
 			(at 0 0 0)
@@ -597,7 +597,7 @@
 	(footprint "adder:D16"
 		(layer "F.Cu")
 		(uuid "01c4828c-a2b7-470f-b06f-8b62c486871d")
-		(at 168.6516 148.944)
+		(at 66.8966 145.129)
 		(tags "CD74HC283M96 ")
 		(property "Reference" "U28"
 			(at 0 0 0)
@@ -1640,7 +1640,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "02f3ecfe-790a-4a54-9471-8461fd809e5a")
-		(at 133.255 130.835)
+		(at 137.9 144.81)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R49"
@@ -1798,13 +1798,13 @@
 	(footprint "Package_TO_SOT_SMD:SOT-553"
 		(layer "F.Cu")
 		(uuid "0492cc73-8b0c-414f-aae6-a3eee08eedb5")
-		(at 178.285 144.8)
+		(at 52.2125 67.24)
 		(descr "SOT, 5 Pin (https://www.jedec.org/system/files/docs/MO-293B.pdf)")
 		(tags "SOT TO_SOT_SMD JEDEC-MO-293-UAAD-1 Texas-DRL-5")
 		(property "Reference" "U57"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
-			(uuid "bd805856-e328-4932-9b55-95b0b9581d6c")
+			(uuid "06527363-8a37-46a9-9c99-5fb254efa426")
 			(effects
 				(font
 					(size 1 1)
@@ -1815,7 +1815,7 @@
 		(property "Value" "74LVC1GU04DRL"
 			(at 0 1.65 0)
 			(layer "F.Fab")
-			(uuid "23dcd1a1-5290-4946-b463-0eee98fe7d93")
+			(uuid "5ecf9cc2-e8c3-454b-8a77-bea19e563378")
 			(effects
 				(font
 					(size 1 1)
@@ -1827,7 +1827,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5eecc358-e981-4eb8-9638-cb40838684c6")
+			(uuid "94522399-3e2b-44cc-837a-6c8c974eacbf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1838,7 +1838,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "78e8e67e-4cd8-439e-9da7-387a084723ef")
+			(uuid "645571ee-52b4-44d1-b19c-366f004e6371")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2158,7 +2158,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "05452da9-667e-4660-b5b1-b7a0f49a06ad")
-		(at 161.545 134.42)
+		(at 130.3375 160.65)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U32"
@@ -2520,7 +2520,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "05afb897-3e50-48f3-a713-e9de944061ad")
-		(at 173.1025 107.02)
+		(at 270 42)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q25"
@@ -2775,7 +2775,7 @@
 	(footprint "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile"
 		(layer "F.Cu")
 		(uuid "07cde357-1683-437a-993f-d847673ae2f6")
-		(at 199.305 154.545)
+		(at 186.195 49.795)
 		(descr "SMD 1x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile")
 		(tags "SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile")
 		(property "Reference" "SW3"
@@ -3073,7 +3073,7 @@
 			)
 		)
 		(point
-			(at 203.61 154.545)
+			(at 190.5 49.795)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "912d7036-5786-40a5-8f2d-6d636912a9fe")
@@ -3114,7 +3114,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "083bd930-3068-4e2b-832d-d9984f040978")
-		(at 191.775 155.465)
+		(at 178.665 50.715)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C6"
@@ -3266,7 +3266,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "0b7665d0-da78-46dd-a797-683d8560719c")
-		(at 125.235 140.875)
+		(at 45.275 121.965)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R31"
@@ -3424,7 +3424,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "0cf6b718-5abd-4b16-a511-3a420980cc89")
-		(at 125.235 125.815)
+		(at 87.225 59)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R25"
@@ -3582,7 +3582,7 @@
 	(footprint "Oscillator:Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm"
 		(layer "F.Cu")
 		(uuid "0f304cf0-700d-47fb-b44e-be0d88f598ee")
-		(at 176.87 111.35)
+		(at 22.225 47.425)
 		(descr "https://global.kyocera.com/prdct/electro/product/pdf/clock_z_xz_e.pdf")
 		(tags "2.5mm 2mm SMD")
 		(property "Reference" "Y2"
@@ -3828,7 +3828,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "0feeb2de-5fbb-4037-8932-e1d66c8d3f65")
-		(at 140.6209 151.6705)
+		(at 142.4083 144.200199)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U5"
 			(at 0 0 0)
@@ -4138,7 +4138,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "106543a1-536e-4d83-9316-e163cdcfe8fc")
-		(at 137.265 145.895)
+		(at 262.655 86.5)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R67"
@@ -4296,7 +4296,7 @@
 	(footprint "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile"
 		(layer "F.Cu")
 		(uuid "11004cc2-cab7-45ca-b812-bda16f3cf66d")
-		(at 199.305 148.75)
+		(at 186.195 44)
 		(descr "SMD 1x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile")
 		(tags "SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile")
 		(property "Reference" "SW1"
@@ -4594,7 +4594,7 @@
 			)
 		)
 		(point
-			(at 203.61 148.75)
+			(at 190.5 44)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "7cc68f36-345c-4bd9-9ead-a69a6af7ee27")
@@ -4635,7 +4635,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-553"
 		(layer "F.Cu")
 		(uuid "1377f532-3e16-41e0-aaa6-9f25b20b645e")
-		(at 174.835 147.985)
+		(at 80.2125 119)
 		(descr "SOT, 5 Pin (https://www.jedec.org/system/files/docs/MO-293B.pdf)")
 		(tags "SOT TO_SOT_SMD JEDEC-MO-293-UAAD-1 Texas-DRL-5")
 		(property "Reference" "U26"
@@ -4995,7 +4995,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "14280c1f-1d04-4d2b-857b-f4556eca0839")
-		(at 121.225 138.365)
+		(at 106.2025 36.435)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R6"
@@ -5153,7 +5153,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "1479a8df-cb35-40e5-8b32-ce02ac2d42ec")
-		(at 176.0875 104.82)
+		(at 22.93 179.32)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q29"
@@ -5408,7 +5408,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "152bb341-d66c-4fe7-a0de-1602e7d80101")
-		(at 133.255 125.815)
+		(at 57.725 151)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R47"
@@ -5566,7 +5566,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "15bdfa25-6523-447b-b403-78a7d6b646c4")
-		(at 191.775 151.965)
+		(at 178.665 47.215)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -5718,7 +5718,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "16d0c51b-1c6a-4030-b967-0aecc165f360")
-		(at 133.255 140.875)
+		(at 135.6667 178.000001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R53"
@@ -5876,7 +5876,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "17796fea-140d-44a6-8cd4-58c3da329497")
-		(at 169.445 137.93)
+		(at 257.0925 87.15)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U73"
@@ -6238,13 +6238,13 @@
 	(footprint "Package_TO_SOT_SMD:SOT-553"
 		(layer "F.Cu")
 		(uuid "197cb7c5-20e9-45d8-be86-edab78f6d5cc")
-		(at 174.835 144.8)
+		(at 48.7625 67.24)
 		(descr "SOT, 5 Pin (https://www.jedec.org/system/files/docs/MO-293B.pdf)")
 		(tags "SOT TO_SOT_SMD JEDEC-MO-293-UAAD-1 Texas-DRL-5")
 		(property "Reference" "U24"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
-			(uuid "0fcfeb65-b142-4f90-90de-64bd65b28df6")
+			(uuid "a478fe31-37dc-46cb-a0e0-dae03f44f71a")
 			(effects
 				(font
 					(size 1 1)
@@ -6255,7 +6255,7 @@
 		(property "Value" "74LVC1GU04DRL"
 			(at 0 1.65 0)
 			(layer "F.Fab")
-			(uuid "f6a05ede-b7e3-428f-94fa-1cbeb9f32286")
+			(uuid "838d4f69-b5e3-4a75-9a9c-fe80e235c04f")
 			(effects
 				(font
 					(size 1 1)
@@ -6267,7 +6267,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "512cb4bd-f360-470a-83a9-795ec298a385")
+			(uuid "f0183d23-7b2c-40d7-8973-bfbbe63cc9f2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6278,7 +6278,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f631f87-589e-47db-ba16-5fad173411e0")
+			(uuid "6580f571-4f2c-49ec-adc8-fc9bdb04eb7c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6598,7 +6598,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "1aca00a3-b666-4980-adda-7db4ad04429a")
-		(at 191.775 157.215)
+		(at 178.665 52.465)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C7"
@@ -6750,7 +6750,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "1c74cc50-5840-4a7c-98c1-4cb04adadc69")
-		(at 137.265 140.875)
+		(at 258.9917 65.700001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R65"
@@ -6908,7 +6908,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "1ceb86ce-84de-4c53-837c-f5c6ecb444c5")
-		(at 133.255 135.855)
+		(at 137.9 160.31)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R51"
@@ -7066,7 +7066,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "1d277fd4-c0fa-4eb2-9d2d-479a8b6fc96f")
-		(at 154.1299 146.4701)
+		(at 270.6633 25.799999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U66"
 			(at 0 0 0)
@@ -7376,7 +7376,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "1da1418e-a718-4709-be43-56cba7b084de")
-		(at 191.775 148.465)
+		(at 178.665 43.715)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -7528,7 +7528,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "257f28d4-d180-4541-b881-1cec2f962ee7")
-		(at 165.495 137.93)
+		(at 217.2419 60.8597)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U43"
@@ -7890,7 +7890,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "2696c055-5549-47d5-8267-047b79510c46")
-		(at 157.595 130.91)
+		(at 127.1625 57.5)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U13"
@@ -8252,7 +8252,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "285925f5-846d-4dec-ae33-432eb29a7f9e")
-		(at 133.255 128.325)
+		(at 137.9 142.3)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R48"
@@ -8410,7 +8410,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "2a84f71b-acd2-484a-b6b7-3033fd683d2a")
-		(at 191.775 153.715)
+		(at 178.665 48.965)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C5"
@@ -8562,7 +8562,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "2a86b7a4-a0b7-4b1b-bfa2-1462aaab9c0e")
-		(at 173.1025 104.82)
+		(at 266.5 24)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q24"
@@ -8817,7 +8817,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "2e51763c-0295-4783-9f0f-4628c414cc9d")
-		(at 121.225 130.835)
+		(at 106.2025 28.905)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C20"
@@ -8975,7 +8975,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "302c7768-b7a1-4b56-85d1-45e9bec0b82b")
-		(at 151.4281 149.0703)
+		(at 226.4083 51.299999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U49"
 			(at 0 0 0)
@@ -9285,7 +9285,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "30b93e03-2112-46c3-9fae-070285ba18cf")
-		(at 148.7263 151.6705)
+		(at 223.7065 53.900199)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U46"
 			(at 0 0 0)
@@ -9595,7 +9595,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "313062ea-59fa-4149-86bd-4ec6ea5fb91b")
-		(at 173.1025 98.22)
+		(at 95.48 134.31)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q21"
@@ -9850,7 +9850,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "32daf5d5-6bbc-4554-940e-7ffff1f7b82f")
-		(at 165.495 130.91)
+		(at 216.8375 81.65)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U41"
@@ -10212,13 +10212,13 @@
 	(footprint "Package_TO_SOT_SMD:SOT-553"
 		(layer "F.Cu")
 		(uuid "37edfd10-044a-42cd-b05a-b4c692c06010")
-		(at 178.285 147.985)
+		(at 52.2125 70.425)
 		(descr "SOT, 5 Pin (https://www.jedec.org/system/files/docs/MO-293B.pdf)")
 		(tags "SOT TO_SOT_SMD JEDEC-MO-293-UAAD-1 Texas-DRL-5")
 		(property "Reference" "U58"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
-			(uuid "18ff14b1-9c17-46f3-9ee3-591daeeb418d")
+			(uuid "6f801f61-3b55-4cda-aab0-10d1fe2b837f")
 			(effects
 				(font
 					(size 1 1)
@@ -10229,7 +10229,7 @@
 		(property "Value" "74LVC1GU04DRL"
 			(at 0 1.65 0)
 			(layer "F.Fab")
-			(uuid "b3675e21-0dab-46e6-b0b0-f44636151f78")
+			(uuid "f86da2a1-6aa7-4928-9f6c-20ba58cb1895")
 			(effects
 				(font
 					(size 1 1)
@@ -10241,7 +10241,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "847308db-b812-4090-a5fe-763aadf79baa")
+			(uuid "916ba126-4bfd-4348-a200-fdbdc67be7f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10252,7 +10252,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f06c90ba-36a3-42a9-9821-e0216ec475bf")
+			(uuid "59a8c980-f644-4616-8c63-f76d0a7d20c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10572,7 +10572,7 @@
 	(footprint "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
 		(layer "F.Cu")
 		(uuid "39f94295-45db-44e0-bd1d-9772f4f58597")
-		(at 171.515 91.175)
+		(at 117.32 27.925)
 		(descr "16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J3"
@@ -11059,7 +11059,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "3a62740f-8296-42cc-981a-e08cc1dcfc35")
-		(at 140.6209 149.0703)
+		(at 142.4083 141.599999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U4"
 			(at 0 0 0)
@@ -11369,7 +11369,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "3f81bd73-78f4-4a30-a9c2-86fd9ad7353c")
-		(at 125.235 148.405)
+		(at 57.725 141)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R34"
@@ -11527,7 +11527,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "3fc4c2cc-fd5c-4d91-84bd-ebacb7b29cfc")
-		(at 176.0875 100.42)
+		(at 262.5 82)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q27"
@@ -11782,7 +11782,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "4084ea63-d6e4-4c94-84c6-d4bfd48efde0")
-		(at 137.265 123.305)
+		(at 225.4917 30.200001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R57"
@@ -11940,7 +11940,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "4277ebc5-6658-4d10-b50e-a86cc3b34eea")
-		(at 157.595 134.42)
+		(at 92.175 159.515)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U14"
@@ -12302,7 +12302,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "4704c0ed-c6fb-4d6e-865a-7ffced25e687")
-		(at 161.545 130.91)
+		(at 130.3375 157.14)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U31"
@@ -12664,7 +12664,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "47152a42-da7d-4984-88f7-46f7c7d4ce0d")
-		(at 148.7263 149.0703)
+		(at 226.2982 25.6002)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U45"
 			(at 0 0 0)
@@ -12974,7 +12974,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "476a51bf-34e5-4541-b492-e120c1fca0e7")
-		(at 146.0245 154.2707)
+		(at 140.175 177.8)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U37"
 			(at 0 0 0)
@@ -13284,7 +13284,7 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "4784e233-b41b-474c-ae2c-420a91cc25f5")
-		(at 141.995 124.45)
+		(at 24.2 116.425)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U3"
@@ -13683,7 +13683,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "47c4c9a5-724f-4a22-84ed-2b1958ef9335")
-		(at 194.61 158.53)
+		(at 53.88 178.67)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q15"
@@ -13939,7 +13939,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "47c9addb-01b9-4bcc-b7bd-b388752a4efc")
-		(at 177.815 141.755)
+		(at 85.2875 23)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "GREEN_LED1"
@@ -14161,7 +14161,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "494e1cdd-4ac7-422d-a094-dd3bcd4db91c")
-		(at 161.545 123.89)
+		(at 130.3375 142.14)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U29"
@@ -14523,7 +14523,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "49dca5ec-6ff3-4e41-8856-67beb70d8b64")
-		(at 125.235 143.385)
+		(at 45.275 124.475)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R32"
@@ -14681,7 +14681,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "4a0b4d02-23df-48e1-a676-b04f080d5850")
-		(at 125.235 138.365)
+		(at 53.725 186.51)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R30"
@@ -14839,7 +14839,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "4ae47714-f265-422e-98f5-78e9c5b0c4c6")
-		(at 129.245 148.405)
+		(at 96.775 164.5)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R45"
@@ -14997,7 +14997,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "4ae9b803-a873-4fee-ab78-f4473b764ae7")
-		(at 161.545 137.93)
+		(at 130.4867 174.430001)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U35"
@@ -15359,7 +15359,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "4e0c7d94-cacb-41da-8005-7ca3086f6ac7")
-		(at 133.255 143.385)
+		(at 226.4917 35.700001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R54"
@@ -15517,7 +15517,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "5017d618-6f89-4656-b782-181d43a2796d")
-		(at 129.245 125.815)
+		(at 132.275 90.01)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R36"
@@ -15675,7 +15675,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "5688897d-64d6-47db-bb98-0722c8ca3608")
-		(at 146.0245 149.0703)
+		(at 144.9083 158.000001)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U33"
 			(at 0 0 0)
@@ -15985,13 +15985,13 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "57dce6ba-8857-43f3-a616-583ced1667d4")
-		(at 147.445 142.95)
+		(at 34.2 72.3)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U59"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
-			(uuid "1fb002c8-58b4-4743-8334-d1b4bd106ee5")
+			(uuid "f4094519-073e-490d-aef9-7401e0907b3f")
 			(effects
 				(font
 					(size 1 1)
@@ -16002,7 +16002,7 @@
 		(property "Value" "74LV1T08GV"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "cfb0881a-8157-4344-a7c4-f32031fbca63")
+			(uuid "8d3242fa-2f9c-43aa-b02c-1a8b54c4fb6c")
 			(effects
 				(font
 					(size 1 1)
@@ -16014,7 +16014,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e869294-982d-452c-a5e8-fb6aed7bc24a")
+			(uuid "8251e2a2-5ef2-4b5c-a664-891498ff9084")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16025,7 +16025,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2fa04c5-defa-43b5-b65c-9d1dd587398a")
+			(uuid "a0524335-9024-4aff-9172-eaf7bc23033a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16387,7 +16387,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "59cf9e38-96b3-4f0a-9618-f6489390346c")
-		(at 137.265 138.365)
+		(at 261.5525 47.795)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R64"
@@ -16545,7 +16545,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-553"
 		(layer "F.Cu")
 		(uuid "5a5dbda9-ebce-4fd0-8877-f99c487ecad1")
-		(at 174.835 154.355)
+		(at 44.7625 116.66)
 		(descr "SOT, 5 Pin (https://www.jedec.org/system/files/docs/MO-293B.pdf)")
 		(tags "SOT TO_SOT_SMD JEDEC-MO-293-UAAD-1 Texas-DRL-5")
 		(property "Reference" "U54"
@@ -16905,7 +16905,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "5bceebd5-0794-48d6-a5a7-f684110f81d2")
-		(at 137.265 135.855)
+		(at 261.5525 45.285)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R63"
@@ -17063,7 +17063,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "5c06be96-6b44-4122-8411-4399040ecb11")
-		(at 121.225 135.855)
+		(at 78.91 24.1)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R4"
@@ -17221,13 +17221,13 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "5c673e9f-e72e-4196-805c-a6cff33aaf37")
-		(at 152.895 133.7)
+		(at 39.65 63.05)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U63"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
-			(uuid "e44f1ef0-7d63-4102-a789-ff382ea23c37")
+			(uuid "bdff00ef-4a10-4edf-be60-c934bce516d7")
 			(effects
 				(font
 					(size 1 1)
@@ -17238,7 +17238,7 @@
 		(property "Value" "74LV1T08GV"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "e5224d91-bea4-45ae-a746-3c988b9cb56b")
+			(uuid "c851280c-91b1-4318-8dd1-e49fddc88afe")
 			(effects
 				(font
 					(size 1 1)
@@ -17250,7 +17250,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc4ee97e-70fb-40ba-9359-f692bd8bd1a5")
+			(uuid "062d8672-7b3c-4074-a3e8-039c32742472")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17261,7 +17261,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c08bf4ad-3b63-4b54-bca6-fe8261929fec")
+			(uuid "26480c20-1bd9-41ce-b8ca-e37599a31900")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17623,7 +17623,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "5e4e8469-39e1-4fe8-b71d-f21f9dd49d53")
-		(at 137.265 128.325)
+		(at 225.4 84.3)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R59"
@@ -17781,7 +17781,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "5f303b54-72d1-4160-9fd7-6d804052f211")
-		(at 140.6209 146.4701)
+		(at 37.5259 121.4451)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U1"
 			(at 0 0 0)
@@ -18091,7 +18091,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "5fd9c59a-3288-4238-8408-7f15f0f06f6a")
-		(at 176.0875 98.22)
+		(at 270.2667 66.200001)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q26"
@@ -18346,7 +18346,7 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "65a728ed-eb14-4512-8b99-1cbdaba566bf")
-		(at 147.445 129.075)
+		(at 29.65 121.05)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U52"
@@ -18745,7 +18745,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "6892ee8d-4254-452f-91d9-65dc00586ef9")
-		(at 137.265 148.405)
+		(at 262.655 89.01)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R68"
@@ -18903,7 +18903,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "694a36c5-2150-4663-b3fd-3a561e98922f")
-		(at 121.225 145.895)
+		(at 22.725 187.01)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R22"
@@ -19061,7 +19061,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "71f6761d-9e5e-4fc8-8c9f-5d29f488158d")
-		(at 133.255 145.895)
+		(at 225.9 64)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R55"
@@ -19219,7 +19219,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "733ebf71-fda3-45d9-9b47-ce56bc124265")
-		(at 129.245 130.835)
+		(at 135 75)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R38"
@@ -19377,7 +19377,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "751f0bea-f972-4d77-90bd-04909866395e")
-		(at 173.1025 102.62)
+		(at 95.0175 179.415)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q23"
@@ -19632,7 +19632,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "783a9900-75b4-4364-a0ad-c057b966a97b")
-		(at 197.415 158.415)
+		(at 184.305 53.665)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R1"
@@ -19791,7 +19791,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-553"
 		(layer "F.Cu")
 		(uuid "78df5c13-8d52-4cc2-9c46-1178e5b3aed0")
-		(at 174.835 151.17)
+		(at 44.7625 113.475)
 		(descr "SOT, 5 Pin (https://www.jedec.org/system/files/docs/MO-293B.pdf)")
 		(tags "SOT TO_SOT_SMD JEDEC-MO-293-UAAD-1 Texas-DRL-5")
 		(property "Reference" "U53"
@@ -20151,7 +20151,7 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "797e2f60-01b6-46be-8c12-0ec7be3dca85")
-		(at 141.995 138.325)
+		(at 85.4475 118.84)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U23"
@@ -20553,13 +20553,13 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "7aec556b-69b3-444a-a48e-18252f24d943")
-		(at 151.4281 154.2707)
+		(at 34.2333 78.724999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U65"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "647c7ba6-6047-4586-bd46-e664347a612f")
+			(uuid "43e4d7f3-7647-46f2-81b1-a9894781e5f3")
 			(effects
 				(font
 					(size 1 1)
@@ -20571,7 +20571,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "2ef918e9-a1b8-4bdb-bb50-b3546a2bf108")
+			(uuid "50c02690-e45c-4559-b3b7-af8087913fa1")
 			(effects
 				(font
 					(size 1 1)
@@ -20583,7 +20583,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4945bc10-54ce-479e-8a78-8d4304487e55")
+			(uuid "c3112493-506c-4152-9062-829ef58cc7b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20594,7 +20594,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8fb03e2-6d88-4afb-b15d-efd4b8fa07ba")
+			(uuid "af6678ac-16fc-4428-a9c4-97beb15a8a39")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20863,7 +20863,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "7bc5a1d3-25cb-438b-aa32-055bd0c7078c")
-		(at 121.225 140.875)
+		(at 27.225 47.5)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R7"
@@ -21021,7 +21021,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "7dfa9959-9826-471b-b67e-af6981fe1e52")
-		(at 169.445 134.42)
+		(at 262.0925 29.65)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U72"
@@ -21383,7 +21383,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7e184447-ab79-4db4-93ba-3d801a6bee3c")
-		(at 173.595 141.635)
+		(at 126.575 26.385)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R20"
@@ -21541,7 +21541,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "7e42de92-3181-47ae-85dd-d4bd1ba4e990")
-		(at 143.3227 154.2707)
+		(at 101.55 161.47)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U19"
 			(at 0 0 0)
@@ -21851,7 +21851,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "7e59daeb-65e3-44b9-9c7f-33be6311c41a")
-		(at 121.225 133.345)
+		(at 21.275 34)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R3"
@@ -22009,7 +22009,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "7ebd5483-43c8-4ae2-af4c-b61edda4f713")
-		(at 121.225 123.305)
+		(at 19.425 21.769)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C13"
@@ -22167,7 +22167,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "80d31b0e-3785-4a1b-8dc2-71c4ef43eb75")
-		(at 165.495 123.89)
+		(at 218.1042 22.320001)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U39"
@@ -22529,7 +22529,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "81386b45-84bc-4738-83ba-c4558305c3d4")
-		(at 167.965 111.375)
+		(at 22 153.88)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J4"
@@ -22792,13 +22792,13 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "8230222f-8ba0-4df5-ac8a-3544d309b7aa")
-		(at 169.445 123.89)
+		(at 51.5 58.925)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U64"
 			(at 0 -1.8 0)
 			(layer "F.SilkS")
-			(uuid "dad0f060-e5b0-4387-b7a4-1d28c89d7396")
+			(uuid "8297ed64-328e-494e-96d7-ed5f5422b918")
 			(effects
 				(font
 					(size 1 1)
@@ -22809,7 +22809,7 @@
 		(property "Value" "NMUX1308BQ"
 			(at 0 1.8 0)
 			(layer "F.Fab")
-			(uuid "66b086cf-aeba-4dee-bdc9-be78502de83b")
+			(uuid "f2a40c1a-6929-424e-bc64-71edf37b3908")
 			(effects
 				(font
 					(size 1 1)
@@ -22821,7 +22821,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1521c176-27e4-42c8-92c9-f8126026f52b")
+			(uuid "2f454c11-e82f-4147-8a48-b9c251b9c540")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22832,7 +22832,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4399d45f-1f0d-4d0b-8390-14e2436857eb")
+			(uuid "2db7cbe9-2edb-400c-9662-a51a8f5bf056")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23154,7 +23154,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "82587373-c96d-48f9-8066-1dbeaa23ed57")
-		(at 157.595 123.89)
+		(at 129.35 71.565)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U11"
@@ -23516,7 +23516,7 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "848327df-c3cc-4be3-99f8-8dfc41492ee3")
-		(at 141.995 142.95)
+		(at 38.9 117.925)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U27"
@@ -23918,7 +23918,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "849d2733-5161-4766-84e0-4d0fdeba716e")
-		(at 170.1175 98.22)
+		(at 53.12 119.475)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q16"
@@ -24173,7 +24173,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "88f6b5c1-0137-4c3b-aa9e-38e90a1ca892")
-		(at 143.3227 149.0703)
+		(at 139.5583 51.850001)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U8"
 			(at 0 0 0)
@@ -24483,7 +24483,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "8959fb6c-e8d1-4e77-9910-ef18472960d9")
-		(at 129.245 135.855)
+		(at 135.05 60.15)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R40"
@@ -24641,7 +24641,7 @@
 	(footprint "3v3_ldo:SOT-223_3MC_MCH"
 		(layer "F.Cu")
 		(uuid "897f6481-767a-45f8-9f27-3f27871508f6")
-		(at 181.5 123.36)
+		(at 25.5 22.5)
 		(tags "TC1262-2.5VDB ")
 		(property "Reference" "U9"
 			(at 0 0 0)
@@ -25163,7 +25163,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "8a2542bf-5fe4-4f4c-aef6-c04b55ae0a32")
-		(at 137.265 133.345)
+		(at 266.155 31)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R62"
@@ -25321,7 +25321,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "8c9fd864-9586-4321-bf26-ae5b2d5dd139")
-		(at 170.1175 102.62)
+		(at 131.255 54.46)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q18"
@@ -25576,7 +25576,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3"
 		(layer "F.Cu")
 		(uuid "9105f68f-c4d9-4c6b-a4ac-96302ba81770")
-		(at 124.645 152.235)
+		(at 52.88 23.63)
 		(descr "https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf")
 		(tags "SPST button tactile switch")
 		(property "Reference" "SW2"
@@ -25884,7 +25884,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "923fa460-8c1c-4b3f-bb7f-54840dd042eb")
-		(at 137.265 143.385)
+		(at 258.9917 68.210001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R66"
@@ -26042,7 +26042,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "92c62b37-3202-4693-93f9-7ca1f06ca1fd")
-		(at 191.775 150.215)
+		(at 178.665 45.465)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -26194,7 +26194,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "947e2711-67c9-4b2e-9515-36a13e9abbc4")
-		(at 121.225 128.325)
+		(at 106.2025 26.395)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C15"
@@ -26352,7 +26352,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "9652636c-2c4e-48d4-bb72-f0727e8cf3a6")
-		(at 129.245 138.365)
+		(at 97.275 138)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R41"
@@ -26510,7 +26510,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "994efcab-41b7-40f3-afc8-adcddfee361b")
-		(at 169.445 127.4)
+		(at 264.2667 67.700001)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U70"
@@ -26872,7 +26872,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "9a5faa5a-604c-44f9-a3e8-5a5fe6e3949c")
-		(at 157.595 127.4)
+		(at 128.0275 88.88)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U12"
@@ -27234,7 +27234,7 @@
 	(footprint "RF_Module:ESP32-S2-MINI-1"
 		(layer "F.Cu")
 		(uuid "9aff7daf-3971-4eb7-a93d-9eca3751a692")
-		(at 142.445 111.025)
+		(at 166.5 43.125)
 		(descr "2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf")
 		(tags "2.4 GHz Wi-Fi Bluetooth external antenna espressif  20*15.4mm")
 		(property "Reference" "U25"
@@ -28376,7 +28376,7 @@
 			)
 			(polygon
 				(pts
-					(xy 165.145 105.775) (xy 119.745 105.775) (xy 119.745 86.275) (xy 165.145 86.275)
+					(xy 189.2 37.875) (xy 143.8 37.875) (xy 143.8 18.375) (xy 189.2 18.375)
 				)
 			)
 		)
@@ -28396,7 +28396,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "9b57fb8b-0a28-4b1b-aea7-e03358216c6c")
-		(at 129.245 145.895)
+		(at 97.275 143)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R44"
@@ -28554,7 +28554,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "9c9b2b01-3828-4751-8081-06c413f5c581")
-		(at 146.0245 146.4701)
+		(at 100.8208 184.404999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U20"
 			(at 0 0 0)
@@ -28864,7 +28864,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "a0403994-1263-4d8f-9d2f-d7e11ccddaf3")
-		(at 173.1025 100.42)
+		(at 101.98 157.78)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q22"
@@ -29119,13 +29119,13 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "a122c6fa-113a-4445-995a-82b8beef2959")
-		(at 147.445 133.7)
+		(at 34.2 63.05)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U55"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
-			(uuid "43a70d7e-1b3f-4a97-8d1e-50b28098b95d")
+			(uuid "141ef09a-7f18-45d2-aaf2-f6ab7dd4e20d")
 			(effects
 				(font
 					(size 1 1)
@@ -29136,7 +29136,7 @@
 		(property "Value" "74AHC1G86"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "794b73e6-a22c-43e2-afb0-ee7374fdf490")
+			(uuid "21337f1d-801a-4a14-ac41-416163a7aab1")
 			(effects
 				(font
 					(size 1 1)
@@ -29148,7 +29148,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "82628fe0-3d10-4208-81cb-b2d0df759557")
+			(uuid "5ce4f1d1-e0b6-446c-8eee-c6b396876c24")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29159,7 +29159,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ab098966-7efb-40d1-ad34-832b91a2edbf")
+			(uuid "4ae58283-2440-4fae-abc3-07744d3aa8a4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29518,7 +29518,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "a24f9306-a0fd-498b-9d84-63f359529ae3")
-		(at 154.1299 149.0703)
+		(at 269.8113 50.489999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U67"
 			(at 0 0 0)
@@ -29828,7 +29828,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "a4e719d8-ce95-4c92-ad5b-b45299a745f9")
-		(at 125.235 128.325)
+		(at 32.775 185.01)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R26"
@@ -29986,7 +29986,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "a530869d-de5f-46aa-b6ab-4f4b628cd925")
-		(at 143.3227 146.4701)
+		(at 136.7833 85.299999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U7"
 			(at 0 0 0)
@@ -30296,7 +30296,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "a5e04659-63c0-4f68-81d0-120f6bc4ded3")
-		(at 146.0245 151.6705)
+		(at 144.9083 160.600201)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U34"
 			(at 0 0 0)
@@ -30606,7 +30606,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "a6afa18a-b1c2-46b7-af48-d91a34ed226e")
-		(at 154.1299 151.6705)
+		(at 272.5 62)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U68"
 			(at 0 0 0)
@@ -30916,7 +30916,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "a6c3584c-ecf7-41ee-ab0b-8d268721787f")
-		(at 148.7263 154.2707)
+		(at 223.7065 80.200199)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U47"
 			(at 0 0 0)
@@ -31226,7 +31226,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "a77e2d7f-2be4-4bc7-ac2b-02d215f4f51c")
-		(at 165.495 134.42)
+		(at 218.1042 32.850001)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U42"
@@ -31588,7 +31588,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "aadd1ad7-af67-4b70-9276-cf04c490a9f7")
-		(at 176.285 114.605)
+		(at 61.52 24)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C9"
@@ -31746,7 +31746,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "ab50d53d-a469-44d7-8253-3a6c84c1a469")
-		(at 157.595 141.44)
+		(at 90.125 136.045)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U16"
@@ -32108,7 +32108,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "ad0be80d-a1b6-4d3a-adf8-b52d207a77ca")
-		(at 121.225 148.405)
+		(at 32.715 188.59)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R23"
@@ -32266,7 +32266,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b1a1389c-3e42-4fd5-9f14-fd60997fe6e7")
-		(at 172.555 111.375)
+		(at 26.59 153.88)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J5"
@@ -32529,7 +32529,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "b4ef9143-5603-40a2-904a-fc8b393cec23")
-		(at 125.235 133.345)
+		(at 43.725 187.01)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R28"
@@ -32687,7 +32687,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "b6125e22-b41b-4041-adbb-b3944c09a522")
-		(at 170.1175 104.82)
+		(at 135.205 68.81)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q19"
@@ -32942,7 +32942,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "b71bc2d4-eac9-4d12-b3bc-d3f942dc3a22")
-		(at 129.245 133.345)
+		(at 135.05 57.64)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R39"
@@ -33100,7 +33100,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b813e671-3b6d-4e74-bc65-9c384e8a78f0")
-		(at 173.595 139.125)
+		(at 126.575 23.875)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R15"
@@ -33258,7 +33258,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "b98f40e1-c90f-489c-9047-1a4164e62298")
-		(at 169.445 130.91)
+		(at 266.4075 45.69)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U71"
@@ -33620,7 +33620,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "bae2b8ab-8744-48eb-909c-a8b3e73615ce")
-		(at 161.545 141.44)
+		(at 130.4867 177.940001)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U36"
@@ -33982,7 +33982,7 @@
 	(footprint "Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 		(layer "F.Cu")
 		(uuid "bc97996e-01fa-46ee-bf25-ec390293639f")
-		(at 173.795 135)
+		(at 263.3125 217.75)
 		(descr "DHVQFN, 16 Pin (JEDEC MO-241/VAB, https://assets.nexperia.com/documents/package-information/SOT763-1.pdf)")
 		(tags "DHVQFN NoLead Nexperia_SOT763-1 Texas_BQB0016A")
 		(property "Reference" "U2"
@@ -34570,7 +34570,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "be4472ea-4a5f-432e-80e3-4768e12451c8")
-		(at 170.1175 100.42)
+		(at 43.93 179.82)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q17"
@@ -34825,13 +34825,13 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "bea1d1bc-783f-4094-ab96-ecc3809a7feb")
-		(at 152.895 129.075)
+		(at 39.65 58.425)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U62"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
-			(uuid "4821ceda-c52e-4700-8a91-5e6f691f8d9b")
+			(uuid "e603a1e1-9662-4bb9-b284-f007adb569b8")
 			(effects
 				(font
 					(size 1 1)
@@ -34842,7 +34842,7 @@
 		(property "Value" "74LV1T08GV"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "e7e6fcce-e0e2-421c-857c-786dae72cf54")
+			(uuid "0828e0af-27dd-4908-93e5-3a1d12c284eb")
 			(effects
 				(font
 					(size 1 1)
@@ -34854,7 +34854,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95598369-8685-46b3-8285-eee24f69c1f1")
+			(uuid "7a6b48f5-ef33-4e8c-a0e4-3ad38696821a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34865,7 +34865,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "edc2ca9a-6159-488f-96bd-9e2e133c6365")
+			(uuid "1accac56-879a-4d56-87a2-ad23009381db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35227,7 +35227,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "c1b729d8-19df-4ed7-9c9b-1bb3e2f7f73a")
-		(at 133.255 133.345)
+		(at 137.9 157.8)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R50"
@@ -35385,7 +35385,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "c1ebf13d-b2e7-464e-8d71-94405d9127c0")
-		(at 125.235 145.895)
+		(at 87.725 67)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R33"
@@ -35543,7 +35543,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "c1f255d1-6e1e-45ba-8f5c-d2cbb61a6b05")
-		(at 191.775 146.715)
+		(at 178.665 41.965)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
@@ -35695,7 +35695,7 @@
 	(footprint "Crystal:Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm"
 		(layer "F.Cu")
 		(uuid "c3020007-66c4-4121-9c9f-d8641d0ccd49")
-		(at 133.945 152.185)
+		(at 150.35 46.5)
 		(descr "SMD Crystal Abracon ABM7, https://abracon.com/Resonators/abm7.pdf")
 		(tags "SMD SMT crystal")
 		(property "Reference" "Y1"
@@ -35903,7 +35903,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "c9055d3a-ef56-44b5-a985-248dd1048ef0")
-		(at 161.545 127.4)
+		(at 130.3375 145.65)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U30"
@@ -36265,7 +36265,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "ccda54a9-4756-432f-806b-62c5c73d8cac")
-		(at 176.0875 102.62)
+		(at 32.93 180.32)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q28"
@@ -36520,7 +36520,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "d2062086-c22b-4e8c-b769-91115d361d29")
-		(at 133.255 148.405)
+		(at 225.9 89.8)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R56"
@@ -36678,13 +36678,13 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "d3ec5d62-805d-4aa8-acea-883a2361ba92")
-		(at 141.995 133.7)
+		(at 28.75 63.05)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U21"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
-			(uuid "65b876f1-ba92-4802-ab86-0add52621f4d")
+			(uuid "b4379ac8-2b03-4d90-875c-d5037ac9de04")
 			(effects
 				(font
 					(size 1 1)
@@ -36695,7 +36695,7 @@
 		(property "Value" "74LV1T08GV"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "e72d86d5-176a-48e2-83cf-d74b81c8b17e")
+			(uuid "98fe5193-f850-46f2-995f-00e1916a072c")
 			(effects
 				(font
 					(size 1 1)
@@ -36707,7 +36707,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b80a46b-5ecf-49ad-b1cd-e211476a15b1")
+			(uuid "54e9ee5b-ba31-4a18-99b4-295b4cd9a66b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36718,7 +36718,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b61a95f6-5b44-406e-9041-1ff9f37c26ed")
+			(uuid "7dfabf3e-9ac0-4ef4-9c68-d8e5136fd3d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37080,7 +37080,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "d6430b4f-09ae-45ac-98be-7dab8337ec3e")
-		(at 137.265 125.815)
+		(at 225.4 58.5)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R58"
@@ -37238,7 +37238,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "d71bc62c-e9c3-40cb-bd63-68f52aa698df")
-		(at 143.3227 151.6705)
+		(at 102.2833 131.299999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U17"
 			(at 0 0 0)
@@ -37548,7 +37548,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "d7fa8d3e-c4fb-404b-b5f5-b93773d68d0f")
-		(at 154.1299 154.2707)
+		(at 267.6633 83.299999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U69"
 			(at 0 0 0)
@@ -37858,7 +37858,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "da938fef-cc1f-4b19-918a-93feabcf33c7")
-		(at 129.245 143.385)
+		(at 95.2625 189.105)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R43"
@@ -38016,7 +38016,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "db7a99d3-036a-4f66-8043-6f9aae2adc1d")
-		(at 121.225 125.815)
+		(at 19.425 24.279)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C14"
@@ -38174,7 +38174,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "dfe339ff-c283-4a02-bb64-0e6ee3c83b66")
-		(at 133.255 138.365)
+		(at 135.6667 175.490001)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R52"
@@ -38332,13 +38332,13 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "e122a28f-bf1a-4715-99f2-092807d9f709")
-		(at 147.445 138.325)
+		(at 34.2 67.675)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U56"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
-			(uuid "73811f82-bfb1-4475-8c4a-b565d57593a1")
+			(uuid "191fd31a-c892-40c9-a3a2-cffd42a1918e")
 			(effects
 				(font
 					(size 1 1)
@@ -38349,7 +38349,7 @@
 		(property "Value" "74AHC1G86"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "3dcbe768-f200-4606-9a1d-e2c18ea6d516")
+			(uuid "50f2d738-ba02-48ec-9b27-71f9aa76cb0a")
 			(effects
 				(font
 					(size 1 1)
@@ -38361,7 +38361,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5c637345-dbdd-433d-9b1a-f67d78b788f2")
+			(uuid "c4b23c7c-4508-47e1-9cd7-28605dec5008")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38372,7 +38372,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "54492fc4-a7bb-4336-a7a7-34b87b33a2ea")
+			(uuid "bf398c19-0176-4bfe-a23c-82b1a52fff50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38731,7 +38731,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "e1d923e3-b417-42aa-967b-df49d0d1636d")
-		(at 137.265 130.835)
+		(at 266.155 28.49)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R61"
@@ -38889,7 +38889,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "e27decb8-ea73-40fd-b340-df614ca74a13")
-		(at 165.495 127.4)
+		(at 217.3375 54.85)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U40"
@@ -39251,7 +39251,7 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "e5dcbd08-0176-48c0-b067-18a2cb782fad")
-		(at 141.995 129.075)
+		(at 24.2 121.05)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U18"
@@ -39650,7 +39650,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "e63a6d4f-1b24-4319-a18d-49513eba1f95")
-		(at 140.6209 154.2707)
+		(at 140.5083 67.799999)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U6"
 			(at 0 0 0)
@@ -39960,7 +39960,7 @@
 	(footprint "Package_SO:SO-16_3.9x9.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "e6eb98d7-c491-4a7e-a3cc-e202b5e8c029")
-		(at 184.8 134.4075)
+		(at 249.925 122.675)
 		(descr "SO, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT109-1.pdf)")
 		(tags "SO SO SOT109-1")
 		(property "Reference" "U10"
@@ -40424,7 +40424,7 @@
 	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "e84d8cb9-90e3-4d52-aa11-48605c0409f7")
-		(at 191.775 158.965)
+		(at 178.665 54.215)
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -40576,7 +40576,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "e8badf84-7ca4-4e86-b0c6-a79638c04e35")
-		(at 177.815 139.165)
+		(at 26.915 33.82)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D1"
@@ -40798,13 +40798,13 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "ea3c5666-e2e6-4197-8c4b-38cd90e7ad9b")
-		(at 152.895 124.45)
+		(at 39.65 53.8)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U60"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
-			(uuid "ac13806d-f315-4359-9ed9-e36aa51e8347")
+			(uuid "19fa4a60-a240-4e1d-b582-48f34071b3a2")
 			(effects
 				(font
 					(size 1 1)
@@ -40815,7 +40815,7 @@
 		(property "Value" "74AHC1G86"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "3432fc9d-5b5f-47a8-a25c-79b627635736")
+			(uuid "001d494b-5622-4b9a-98bd-aa94be381ea0")
 			(effects
 				(font
 					(size 1 1)
@@ -40827,7 +40827,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fc2ce3a7-dc5b-4eb5-b684-544d6346dea4")
+			(uuid "87223069-2196-40f4-94f0-31f1ed9dd1d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40838,7 +40838,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c1649ef-df61-4b99-bbf0-0322c0eb0d12")
+			(uuid "490593c1-90e7-4ed3-ae7c-0162fb96033b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41197,7 +41197,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "ea900838-7b59-40ea-b1ac-1ecd7e4157a7")
-		(at 129.245 128.325)
+		(at 135 72.49)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R37"
@@ -41355,7 +41355,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "eafe31dc-92cb-4986-b41f-92bada033b47")
-		(at 121.225 143.385)
+		(at 22.725 184.5)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R21"
@@ -41513,7 +41513,7 @@
 	(footprint "adder:D16"
 		(layer "F.Cu")
 		(uuid "f00ef8ef-3ae1-4444-b2a7-7bc3a9632dcf")
-		(at 159.9046 148.944)
+		(at 96.9446 63.629)
 		(tags "CD74HC283M96 ")
 		(property "Reference" "U22"
 			(at 0 0 0)
@@ -42556,7 +42556,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f018af0b-19c6-4126-8a5c-d41b2eb5be50")
-		(at 125.235 123.305)
+		(at 110.2125 21.375)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R24"
@@ -42714,7 +42714,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "f15e2922-745c-408b-819f-0eb0407f922a")
-		(at 148.7263 146.4701)
+		(at 140.4172 174.729301)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U38"
 			(at 0 0 0)
@@ -43024,7 +43024,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "f32f14b5-495e-4912-9a10-ecde70b8e66a")
-		(at 165.495 141.44)
+		(at 217.3375 87.98)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U44"
@@ -43386,7 +43386,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "f4057381-0fbb-46be-94a5-245c5355845d")
-		(at 157.595 137.93)
+		(at 88.6625 183.65)
 		(descr "SOT, 6 Pin (https://home.jeita.or.jp/tsc/std-pdf/ED-7500A.pdf#page=170, JEDEC MO-203, variant AB, https://www.jedec.org/document_search?search_api_views_fulltext=MO-203)")
 		(tags "SOT TO_SOT_SMD SC-88 SOT-363 SC-70-6 US6 UMT6 S-Mini6 TSSOP6")
 		(property "Reference" "U15"
@@ -43748,7 +43748,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f520f8b9-bbf9-4902-878d-7dfd45812211")
-		(at 133.255 123.305)
+		(at 95.3125 184.105)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R46"
@@ -43906,7 +43906,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-1123"
 		(layer "F.Cu")
 		(uuid "f762d4f3-e805-461a-9b9c-501787659867")
-		(at 170.1175 107.02)
+		(at 132.55 84)
 		(descr "SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)")
 		(tags "SOT-1123 transistor")
 		(property "Reference" "Q20"
@@ -44161,7 +44161,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f763d1ee-3af7-4e5c-8180-b3cfe17cd797")
-		(at 125.235 130.835)
+		(at 43.725 184.5)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R27"
@@ -44319,7 +44319,7 @@
 	(footprint "reg:XSON6_SOT1115_NEX"
 		(layer "F.Cu")
 		(uuid "f795d4d0-0d4a-4dc1-9194-c404d6019536")
-		(at 151.4281 146.4701)
+		(at 229 23)
 		(tags "74AUP1G80GN_132 ")
 		(property "Reference" "U48"
 			(at 0 0 0)
@@ -44629,13 +44629,13 @@
 	(footprint "Package_TO_SOT_SMD:SOT-553"
 		(layer "F.Cu")
 		(uuid "f7e1f06d-255e-4437-8cb9-13041bdffdf0")
-		(at 178.285 151.17)
+		(at 52.2125 73.61)
 		(descr "SOT, 5 Pin (https://www.jedec.org/system/files/docs/MO-293B.pdf)")
 		(tags "SOT TO_SOT_SMD JEDEC-MO-293-UAAD-1 Texas-DRL-5")
 		(property "Reference" "U61"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
-			(uuid "5d39daa4-b313-4b46-ad5e-827a31100f65")
+			(uuid "000cc473-523c-41bf-9cc1-9b50e2dfd3e9")
 			(effects
 				(font
 					(size 1 1)
@@ -44646,7 +44646,7 @@
 		(property "Value" "74LVC1GU04DRL"
 			(at 0 1.65 0)
 			(layer "F.Fab")
-			(uuid "a5944887-488d-4ab8-8ddc-6ecb072006f7")
+			(uuid "acae966c-e2a5-40e1-9489-32b87f26dd6e")
 			(effects
 				(font
 					(size 1 1)
@@ -44658,7 +44658,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "90025ecc-b0df-49a1-b59d-39639668bdff")
+			(uuid "3311a637-33c9-4022-afa1-0a887d4cb461")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44669,7 +44669,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16bc4ae9-dd5c-4327-a155-ddab41921999")
+			(uuid "84787809-0533-43c2-9cf9-44117c6d84f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44989,7 +44989,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f8b1e776-e53d-4df9-8735-d08d64d4072c")
-		(at 129.245 123.305)
+		(at 132.275 87.5)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R35"
@@ -45147,7 +45147,7 @@
 	(footprint "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
 		(layer "F.Cu")
 		(uuid "fd1b2a3f-7851-4f44-8669-8a9a146f217d")
-		(at 147.445 124.45)
+		(at 29.65 116.425)
 		(descr "SC-74A, 5 Pin (https://www.jeita.or.jp/japanese/standard/book/ED-7500B/#target/page_no=41)")
 		(tags "SC-74A TO_SOT_SMD")
 		(property "Reference" "U51"
@@ -45549,7 +45549,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "fe908c6c-cfde-40e0-a233-bca964a48dd0")
-		(at 129.245 140.875)
+		(at 97.275 158.47)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R42"
